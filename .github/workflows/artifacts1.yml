@@ -1,4 +1,4 @@
-name: Our Artifacts
+name: Our Artifacts 1
 on: push
 jobs:
   build:
